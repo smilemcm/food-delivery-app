@@ -132,12 +132,12 @@ android {
     compileSdkVersion rootProject.ext.compileSdkVersion
 
     defaultConfig {
-        applicationId "com.zerocho.fooddeliveryapp"
+        applicationId "com.imspeed.fooddeliveryapp"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
         versionName "1.0"
-        resValue "string", "build_config_package", "com.zerocho.fooddeliveryapp"
+        resValue "string", "build_config_package", "com.imspeed.fooddeliveryapp"
     }
     splits {
         abi {

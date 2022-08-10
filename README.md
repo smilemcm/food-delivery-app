@@ -347,7 +347,7 @@ npm i react-native-config
 ```typescript jsx
 import Config from 'react-native-config';
 ```
--Config가 적용이 안 되면 다음 추가해야함
+-Config가 적용이 안 되면 다음 추가해야함..
 
 android/app/proguard-rules.pro
 ```
